@@ -1,0 +1,16 @@
+__history/
+*.~*
+*.dcu
+*.exe
+*.dll
+*.~pas
+*.~dfm
+*.~dpr
+*.~dpk
+*.identcache
+*.local
+*.log
+*.tvsconfig
+*.dproj.local
+Win32/
+Win64/
